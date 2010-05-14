@@ -15,14 +15,20 @@
 В этом репозитории вся информация по проекту.
 Код: 
 Ruby-on-rails
-верстка в haml
+верстка в haml, css фреймворк 960.gs
 авторизация при помощи clearance
 деплоймент при помощи capistrano на облако rackspace
 
+структура папок:
+
+apps/ код приложения
+design/ графика и макеты
+docs/ документы
+pages/ сверстанные макеты страниц
 
 Как пообщаться?
 ---------------
 
-**mail:** [po@kumekay.com][mailto:po@kumekay.com]
+**mail:** po@kumekay.com
 **skype:**  sergey.silnov
 
