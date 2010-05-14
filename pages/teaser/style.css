@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {height: 100%}
+body {
+  font: 24px Verdana, Arial, Tahoma, sans-serif;
+  height: 100%;
+  color: #FEE; 
+  text-align: center;
+  width: 100%;
+  background: #555;
+}
+a {
+  color: #ECC;
+  outline: none;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none;
+}
+img {
+  border: none;
+}
+
+#header {
+  width: 100%;
+  padding: 0 0;
+  height: 50%;
+  background: #555;
+}
+
+
+#content {
+  width: 100%;
+  padding: 0;
+  height: 50%;
+  background: #fff;
+  text-align: center;
+}
+
+.inf {
+  padding: 10px ;
+  text-align:left;
+  position: absolute;
+  bottom: 50%;
+  width: 400px;
+  height: 150px;
+  left: 50%;
+  margin-left: -200px;
+}
+
+.logo {
+  padding: 0 10px 0 0 ;
+  float:left;
+}
+
+.hd {
+  padding:10px ;
+ 
+}
+
+
