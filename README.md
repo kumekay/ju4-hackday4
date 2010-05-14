@@ -32,3 +32,5 @@ pages/ сверстанные макеты страниц
 **mail:** po@kumekay.com
 **skype:**  sergey.silnov
 
+До встречи на HackDay4
+----------------------
