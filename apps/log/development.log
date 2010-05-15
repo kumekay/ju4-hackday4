@@ -6,3 +6,11 @@
  FROM sqlite_master
  WHERE type = 'table' AND NOT name = 'sqlite_sequence'
 [0m
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2010-05-15 14:37:25) [GET]
+  [4;36;1mSQL (1.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 653ms (View: 147, DB: 1) | 200 OK [http://0.0.0.0/rails/info/properties]
